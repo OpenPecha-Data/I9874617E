@@ -1,0 +1,30 @@
+id: I9874617E
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T06:36:01.474811'
+last_modified: '2022-05-31T06:36:01.474821'
+parser: null
+source_metadata:
+  title: Ngulchu Dharmabhadra Series
+  language: en
+  description: 'A series of texts by and about the great Gelugpa scholar Ngulchu Dharmabhadra
+    (dngul chu dharma bhadra, 1771–1852):'
+  volume:
+    fA461:
+      title: Method of Confession based on the Four Powers
+      base_file: fA461.txt
+      order: 1
+      parent: Confession
+    f9C4B:
+      title: Concise Explanatory Outline of the Heart of Wisdom
+      base_file: f9C4B.txt
+      order: 2
+      parent: Prajñāpāramitā
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
